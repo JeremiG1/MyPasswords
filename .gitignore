@@ -1,0 +1,9 @@
+*.txt
+*.key
+*.pyc
+*.spec
+build/
+dist/
+/Data
+*.gif
+*.png
